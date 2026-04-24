@@ -4,7 +4,7 @@
 
 Developed by: **Mohamed Khaled Nassar**  
 Course: **Network Security (CSE 231)** | Instructor: **Dr. Aida Nasr**  
-Academic Email: [1800364@el-eng.menofia.edu.eg](mailto:1800364@el-eng.menofia.edu.eg)
+Academic Email: [1800364@el-eng.menofia.edu.eg](mailto:mohamednassar@el-eng.menofia.edu.eg)
 
 ---
 
